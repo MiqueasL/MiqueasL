@@ -1,4 +1,4 @@
-##👋 Olá, eu sou Miqueas!##
+👋 Olá, eu sou Miqueas!
 
 Estudo ABAP constantemente, com foco em **ABAP Clássico, OO e CDS**.  
 Desenvolvo projetos e exercícios relacionados a **SAP**, dados e automação de processos de negócios.  
