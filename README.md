@@ -12,6 +12,7 @@ Compartilho esses projetos com foco em soluções práticas e organizadas.
 -  **CDS Views** – básicas e compostas  
 -  **ALV & Relatórios** – análise e dashboards SAP 
 -  **Open SQL** – consultas, junções e agregações
+-  **JavaScript (básico)** – fundamentos e pequenos projetos
 
 ---
 ## Ferramentas e Linguagens em Destaque
