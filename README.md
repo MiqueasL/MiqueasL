@@ -1,7 +1,10 @@
-## Hi there 👋
+##👋 Olá, eu sou Miqueas!
 
-<!--
-**MiqueasL/MiqueasL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor ABAP focado em **ABAP clássico, OO e CDS**.  
+Apaixonado por **SAP**, dados e automação de processos de negócios.  
+Compartilho projetos, exercícios e estudos para aprender e ajudar outros desenvolvedores.
+
+---
 
 Here are some ideas to get you started:
 
