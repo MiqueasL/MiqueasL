@@ -16,6 +16,6 @@ Compartilho esses projetos com foco em soluções práticas e organizadas.
 ---
 ## Ferramentas & Destaques
 
-https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg
-https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-Luna-Logo.png
-https://upload.wikimedia.org/wikipedia/commons/0/0a/SAP_icon.png
+![ABAP](https://img.shields.io/badge/ABAP-282C34?style=for-the-badge&logo=abap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
