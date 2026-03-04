@@ -11,4 +11,11 @@ Compartilho esses projetos com foco em soluções práticas e organizadas.
 -  **ABAP Clássico & OO** – programas, classes e modularização  
 -  **CDS Views** – básicas e compostas  
 -  **ALV & Relatórios** – análise e dashboards SAP 
--  **Open SQL** – consultas, junções e agregações  
+-  **Open SQL** – consultas, junções e agregações
+
+---
+## Ferramentas & Destaques
+
+| ![SAP Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg) | ![Eclipse Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Eclipse_icon.svg) | ![SAP GUI Logo](https://upload.wikimedia.org/wikipedia/commons/f/f1/SAP_Icon.png) |
+|:---:|:---:|:---:|
+| SAP | Eclipse | SAP GUI |
