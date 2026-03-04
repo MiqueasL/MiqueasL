@@ -16,9 +16,6 @@ Compartilho esses projetos com foco em soluções práticas e organizadas.
 ---
 ## Ferramentas & Destaques
 
-
-| SAP | Eclipse | SAP GUI |
-|:---:|:---:|:---:|
-| ![SAP Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg) | ![Eclipse Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-Luna-Logo.png) | ![SAP GUI Logo](https://upload.wikimedia.org/wikipedia/commons/0/0a/SAP_icon.png) |
-
-✅ Essa tabela funciona no GitHub, e as 3 logos aparecem.
+https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg
+https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-Luna-Logo.png
+https://upload.wikimedia.org/wikipedia/commons/0/0a/SAP_icon.png
