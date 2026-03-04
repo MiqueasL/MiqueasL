@@ -20,4 +20,6 @@ Compartilho esses projetos com foco em soluções práticas e organizadas.
 ![ABAP](https://img.shields.io/badge/ABAP-1E90FF?style=for-the-badge&logo=abap&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![SAP GUI](https://img.shields.io/badge/SAP_GUI-0070C0?style=for-the-badge&logo=sap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
