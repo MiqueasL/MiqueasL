@@ -1,19 +1,14 @@
 ##👋 Olá, eu sou Miqueas!
 
-Sou desenvolvedor ABAP focado em **ABAP clássico, OO e CDS**.  
-Apaixonado por **SAP**, dados e automação de processos de negócios.  
-Compartilho projetos, exercícios e estudos para aprender e ajudar outros desenvolvedores.
+Estudo ABAP constantemente, com foco em **ABAP Clássico, OO e CDS**.  
+Desenvolvo projetos e exercícios relacionados a **SAP**, dados e automação de processos de negócios.  
+Compartilho esses projetos com foco em soluções práticas e organizadas.
 
 ---
 
-Here are some ideas to get you started:
+## Tecnologias & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **ABAP Clássico & OO** – programas, classes e modularização  
+-  **CDS Views** – básicas e compostas  
+-  **ALV & Relatórios** – análise e dashboards SAP 
+-  **Open SQL** – consultas, junções e agregações  
