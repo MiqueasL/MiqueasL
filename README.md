@@ -14,9 +14,13 @@ Compartilho esses projetos com foco em soluções práticas e organizadas.
 -  **Open SQL** – consultas, junções e agregações
 
 ---
-## Ferramentas & Destaques
+## Ferramentas e Linguagens em Destaque
 
 ![ABAP](https://img.shields.io/badge/ABAP-1E90FF?style=for-the-badge&logo=abap&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![SAP GUI](https://img.shields.io/badge/SAP_GUI-0070C0?style=for-the-badge&logo=sap&logoColor=white)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueasL&layout=compact&theme=blue)
